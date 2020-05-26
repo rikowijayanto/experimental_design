@@ -2,32 +2,32 @@
 Bagian ini akan mendeskripsikan beberapa hal terkait dengan perancangan eksperiment dengan pendekatan statistik
 
 ### Content
-1. Analisis Normalitas
-[ ] Kolmogorov Smirnov test
-[ ] Anderson Darling
-[ ] Saphiro Wilk
-[ ] D'Agustinus K2 Test
+A. Analisis Normalitas
+1. [ ] Kolmogorov Smirnov test
+2. [ ] Anderson Darling
+3. [ ] Saphiro Wilk
+4. [ ] D'Agustinus K2 Test
 
-2. Analisis Stasioneritas
-[ ] Augmented Dickey Fuller
-[ ] Kwiatkowski-Phillips-Schmidt-Shin Test
+B. Analisis Stasioneritas
+1. [ ] Augmented Dickey Fuller
+2. [ ] Kwiatkowski-Phillips-Schmidt-Shin Test
 
-3. Analisis Korelasi
-[ ] Koefisien Korelasi Pearson
-[ ] Korelasi Spearman Rank
-[ ] Korelasi Kendalls Rank
-[ ] Chi-Squared Test
+C. Analisis Korelasi
+1. [ ] Koefisien Korelasi Pearson
+2. [ ] Korelasi Spearman Rank
+3. [ ] Korelasi Kendalls Rank
+4. [ ] Chi-Squared Test
 
-4. Pengujian Hipotesis Statistik - Parametrik
-[ ] T-Student test (T-Test)
-[ ] Paired T-Student test
-[ ] Analysis of Variance (ANOVA)
-[ ] Repeated ANOVA
+D. Pengujian Hipotesis Statistik - Parametrik
+1. [ ] T-Student test (T-Test)
+2. [ ] Paired T-Student test
+3. [ ] Analysis of Variance (ANOVA)
+4. [ ] Repeated ANOVA
 
-5. Pengujian Hipotesis Statistik - Non Parametrik
-[ ] Meann-Whitney U test
-[ ] Wilcoxon Test
-[ ] Kruskall Wallis H Test
-[ ] Friedman Run Test
+E. Pengujian Hipotesis Statistik - Non Parametrik
+1. [ ] Meann-Whitney U test
+2. [ ] Wilcoxon Test
+3. [ ] Kruskall Wallis H Test
+4. [ ] Friedman Run Test
 
-6. Analisis Kausalitas using Granger
+F. Analisis Kausalitas using Granger
