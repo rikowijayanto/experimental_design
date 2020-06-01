@@ -6,8 +6,8 @@ Bagian ini akan mendeskripsikan beberapa hal terkait dengan perancangan eksperim
 **A. Analisis Normalitas**
 1. [x] Kolmogorov Smirnov test
 2. [x] Anderson Darling
-3. [ ] Saphiro Wilk
-4. [ ] D'Agustinus K2 Test
+3. [x] Saphiro Wilk
+4. [x] D'Agustinus K2 Test
 
 **B. Analisis Stasioneritas**
 1. [ ] Augmented Dickey Fuller
