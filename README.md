@@ -4,8 +4,8 @@ Bagian ini akan mendeskripsikan beberapa hal terkait dengan perancangan eksperim
 ### Content
 
 **A. Analisis Normalitas**
-1. [ ] Kolmogorov Smirnov test
-2. [ ] Anderson Darling
+1. [x] Kolmogorov Smirnov test
+2. [x] Anderson Darling
 3. [ ] Saphiro Wilk
 4. [ ] D'Agustinus K2 Test
 
