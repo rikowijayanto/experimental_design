@@ -10,8 +10,8 @@ Bagian ini akan mendeskripsikan beberapa hal terkait dengan perancangan eksperim
 4. [x] D'Agustinus K2 Test
 
 **B. Analisis Stasioneritas**
-1. [ ] Augmented Dickey Fuller
-2. [ ] Kwiatkowski-Phillips-Schmidt-Shin Test
+1. [x] Augmented Dickey Fuller
+2. [x] Kwiatkowski-Phillips-Schmidt-Shin Test
 
 **C. Analisis Korelasi**
 1. [ ] Koefisien Korelasi Pearson
